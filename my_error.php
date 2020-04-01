@@ -7,7 +7,7 @@
         } catch(Exception $e) {
                 if ($number == 0 && $number < 11) {
                 return "er is iets goed gegaan";
-                }else{
+                } else {
                     return "er is iets fout gegaan";
                 }
         }
